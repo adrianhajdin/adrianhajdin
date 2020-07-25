@@ -1,4 +1,4 @@
-<img align='right' src='https://i.imgur.com/gtHOc3T.png' width='200"'>
+<img src='https://i.imgur.com/gtHOc3T.png'>
 
 ## Adrian Hajdin
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:javascriptmastery00@gmail.com)
