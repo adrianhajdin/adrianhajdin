@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A JavaScript Enthusiast, Educator & GitHub Star</h3>
+<h1>Hi 👋, I'm Adrian</h1>
+<h3>A JavaScript Enthusiast, Educator & GitHub Star</h3>
 
 [![JS Mastery Pro](https://i.ibb.co/4Y0kfH2/GitHub.png)](https://www.jsmastery.pro)
 
 - 🔭 I’m currently working on [Threads](https://github.com/adrianhajdin/threads)
-  
 - 📫 How to reach me **contact@jsmastery.pro**
 
 <h3 align="left">Connect with me:</h3>
