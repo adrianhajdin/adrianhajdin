@@ -1,1 +1,1 @@
-[![JS Mastery Pro](https://i.ibb.co/pJ320jx/github.png)](https://www.jsmastery.pro)
+[![JS Mastery Pro](https://i.postimg.cc/Y24xGvW8/github.png)](https://www.jsmastery.pro)
